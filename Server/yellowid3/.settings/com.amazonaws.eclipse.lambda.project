@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Wed May 31 17:58:46 KST 2017
+lastDeploymentFunctionName=messageTest
+lastDeploymentBucketName=kyd2502
+lastDeploymentEndpoint=https\://lambda.ap-northeast-2.amazonaws.com/

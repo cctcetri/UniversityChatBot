@@ -1,0 +1,14 @@
+*.log
+*.txt
+*.meta
+*.ckpt
+Tensorflow/__pycache__
+Tensorflow/.idea
+Tensorflow/data/seq*
+!.py
+!.npy
+!checkpoint.txt
+Tensorflow/data/__pycache__
+
+
+
